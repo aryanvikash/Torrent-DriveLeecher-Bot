@@ -1,0 +1,17 @@
+{
+  "name": "G Torr bot",
+  "description": "This is a telegram bot writen in Nodejs To mirror file in  Google Drive.",
+  "logo": "https://telegra.ph/file/6c67d32196700f6712af7.jpg",
+  "keywords": [
+    "telegram",
+    "mirror",
+    "googledrive"
+  ],
+  "repository": "https://github.com/aryanvikash/webtorretbot",
+  "success_url": "https://telegram.dog/torrentdrive_bot",
+  "website": "https://github.com/aryanvikash/webtorretbot",  
+  "env": {
+    
+  },
+  "stack": "container"
+}

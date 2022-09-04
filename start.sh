@@ -1,0 +1,1 @@
+npm install && chmod +x ./aria.sh && bash ./aria.sh && node index.js

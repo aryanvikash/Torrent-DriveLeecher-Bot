@@ -1,0 +1,32 @@
+{
+  "name": "webtorretbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanvikash/webtorretbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryanvikash/webtorretbot/issues"
+  },
+  "homepage": "https://github.com/aryanvikash/webtorretbot#readme",
+  "dependencies": {
+    "archiver": "^5.0.0",
+    "aria2": "^4.1.0",
+    "axios": "^0.19.2",
+    "fs-extra": "^9.0.0",
+    "googleapis": "^49.0.0",
+    "mkdirp": "^1.0.4",
+    "mongodb": "^3.5.7",
+    "node-telegram-bot-api": "0.40.0",
+    "rimraf": "^3.0.2"
+  }
+}
